@@ -55,7 +55,7 @@ Define business questions: scoring trends, player performance, and team comparis
 - **Team Comparisons:** Team batting and bowling strengths can be compared visually.  
 - **Match Insights:** Aggregated KPIs provide a holistic view of outcomes.
 
-(./Cricket_Analysis.png)
+ Refer the uploaded dashboard screenshot 
 
 ## Tools Used
 - **Snowflake (Snowsight Dashboards)**  
